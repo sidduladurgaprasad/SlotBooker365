@@ -23,11 +23,11 @@ You can access the deployed SLOTBOOKER365 application [here](https://slotbooker3
 - [Backend Setup](#backend-setup)
 - [Frontend Setup](#frontend-setup)
 
-## Getting Started 🚀 {#getting-started}
+## Getting Started 🚀
 
 To get started with SLOTBOOKER365, follow the instructions in the [Backend Setup](#backend-setup) and [Frontend Setup](#frontend-setup) sections.
 
-## Features 🌟 {#features}
+## Features 🌟
 
 - ✉️ **Sign-up with Email:** Users can sign up using their email, and an OTP will be sent to set the password.
 
@@ -41,7 +41,7 @@ To get started with SLOTBOOKER365, follow the instructions in the [Backend Setup
 
 - ❌ **Appointment Cancellation:** Users can cancel their booked appointments.
 
-## Usage 📝 {#usage}
+## Usage 📝
 
 1. Clone the repository.
 2. Set up the backend server following the [Backend Setup](#backend-setup) instructions.
@@ -49,25 +49,25 @@ To get started with SLOTBOOKER365, follow the instructions in the [Backend Setup
 4. Start both the backend and frontend servers.
 5. Access the application in your browser.
 
-## Chatbot 🤖 {#chatbot}
+## Chatbot 🤖
 
 SLOTBOOKER365 includes a chatbot feature to check the availability of slots. You can interact with the chatbot within the application to inquire about available time slots.
 
-## Sample Login Credentials 🔐 {#sample-login-credentials}
+## Sample Login Credentials 🔐
 
 - **Email:** samplemail@example.com
 - **Password:** sample@123
 
 Use these credentials to log in and explore the application.
 
-## Backend Setup ⚙️ {#backend-setup}
+## Backend Setup ⚙️
 
 1. Navigate to the `backend` directory.
 2. Install dependencies using `npm install`.
-3. Create `.env` file and add `DBurl` to it.
+3. Create a `.env` file and add `DBurl` to it.
 4. Run the backend server using `node app.js`.
 
-## Frontend Setup 🖥️ {#frontend-setup}
+## Frontend Setup 🖥️
 
 1. Navigate to the `frontend` directory.
 2. Install dependencies using `npm install`.
@@ -76,5 +76,3 @@ Use these credentials to log in and explore the application.
 ---
 
 Thank you for checking out SLOTBOOKER365! We hope you find it useful for your appointment scheduling needs. If you have any questions or feedback, please don't hesitate to ✉️ [contact us](mailto:slotbooker365@gmail.com). Enjoy using SLOTBOOKER365! 📅🚀
-
----
