@@ -2,6 +2,14 @@
 
 SLOTBOOKER365 is an appointment booking application developed using the MERN (MongoDB, Express.js, React, Node.js) stack. This application allows users to schedule appointments, view available time slots, and interact with a chatbot for slot availability inquiries.
 
+## Motivation 🌟
+
+We believe that every day is an opportunity to make a positive change in your life. SLOTBOOKER365 is not just an appointment booking application; it's a tool to help you manage your time efficiently and seize each moment.
+
+We encourage you to use SLOTBOOKER365 to plan your appointments, create a balanced schedule, and take control of your time. Remember, your time is valuable, and by making the most of it, you can achieve your goals and aspirations.
+
+Stay motivated, stay organized, and make every day count with SLOTBOOKER365! 💪✨
+
 ## Deployed Application 🚀
 
 You can access the deployed SLOTBOOKER365 application [here](https://slotbooker365.netlify.app/).
@@ -15,11 +23,11 @@ You can access the deployed SLOTBOOKER365 application [here](https://slotbooker3
 - [Backend Setup](#backend-setup)
 - [Frontend Setup](#frontend-setup)
 
-## Getting Started 🚀
+## Getting Started 🚀 {#getting-started}
 
 To get started with SLOTBOOKER365, follow the instructions in the [Backend Setup](#backend-setup) and [Frontend Setup](#frontend-setup) sections.
 
-## Features 🌟
+## Features 🌟 {#features}
 
 - ✉️ **Sign-up with Email:** Users can sign up using their email, and an OTP will be sent to set the password.
 
@@ -33,7 +41,7 @@ To get started with SLOTBOOKER365, follow the instructions in the [Backend Setup
 
 - ❌ **Appointment Cancellation:** Users can cancel their booked appointments.
 
-## Usage 📝
+## Usage 📝 {#usage}
 
 1. Clone the repository.
 2. Set up the backend server following the [Backend Setup](#backend-setup) instructions.
@@ -41,30 +49,29 @@ To get started with SLOTBOOKER365, follow the instructions in the [Backend Setup
 4. Start both the backend and frontend servers.
 5. Access the application in your browser.
 
-## Chatbot 🤖
+## Chatbot 🤖 {#chatbot}
 
 SLOTBOOKER365 includes a chatbot feature to check the availability of slots. You can interact with the chatbot within the application to inquire about available time slots.
 
-## Sample Login Credentials 🔐
+## Sample Login Credentials 🔐 {#sample-login-credentials}
 
 - **Email:** samplemail@example.com
 - **Password:** sample@123
 
 Use these credentials to log in and explore the application.
 
-## Backend Setup ⚙️
+## Backend Setup ⚙️ {#backend-setup}
 
 1. Navigate to the `backend` directory.
 2. Install dependencies using `npm install`.
 3. Create `.env` file and add `DBurl` to it.
 4. Run the backend server using `node app.js`.
 
-## Frontend Setup 🖥️
+## Frontend Setup 🖥️ {#frontend-setup}
 
 1. Navigate to the `frontend` directory.
 2. Install dependencies using `npm install`.
-3. Set the backend API URL in `src/config.js`.
-4. Start the frontend application using `npm start`.
+3. Start the frontend application using `npm start`.
 
 ---
 
