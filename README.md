@@ -40,6 +40,8 @@ To get started with SLOTBOOKER365, follow the instructions in the [Backend Setup
 - 📆 **Appointment Booking:** Users can book appointments in available time slots, with options for 30 minutes or 1 hour.
 
 - ❌ **Appointment Cancellation:** Users can cancel their booked appointments.
+  
+- 🤖 **Book Ease Bot:** Interact with our intelligent chatbot, "Book Ease Bot," to check appointment availability and get assistance with scheduling.
 
 ## Usage 📝
 
