@@ -57,7 +57,7 @@ SLOTBOOKER365 includes a chatbot feature to check the availability of slots. You
 
 ## Sample Login Credentials 🔐
 
-- **Email:** samplemail@example.com
+- **Email:** samplemail@gmail.com
 - **Password:** sample@123
 
 Use these credentials to log in and explore the application.
